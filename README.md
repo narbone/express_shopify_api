@@ -1,7 +1,7 @@
 # README #
 
 ### What is this repository for? ###
-You can upload a zip file on the Shopify assets dir
+An Express js server prototype which allows you to upload a zip file on the Shopify assets dir
 ### How do I get set up? ###
 
 ```
