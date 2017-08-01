@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": false,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "opn http://localhost:3000/files/form_file_upload/shopify_assets && node ./bin/www"
   },
   "dependencies": {
     "body-parser": "~1.15.2",
@@ -17,5 +17,8 @@
     "shopify-connector": "^1.2.0",
     "unzip": "^0.1.11",
     "vinyl-file": "^3.0.0"
+  },
+  "devDependencies": {
+    "opn-cli": "^3.1.0"
   }
 }
