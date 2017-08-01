@@ -21,7 +21,7 @@ var shopifyConnector = require('shopify-connector'),
 ```
 npm start
 ```
-and on your favourite browser type:
+and your default browser should automatically open the following URL:
 http://localhost:3000/files/form_file_upload/shopify_assets
 
 ### Who do I talk to? ###
